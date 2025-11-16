@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+pdf2image
+pillow
+numpy
+opencv-python
+qrdet
+
+
