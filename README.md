@@ -7,7 +7,7 @@ conda activate your_env
 install requiremnts.txt
 pip install -r requirements.txt
 
-MPORTANT — Windows PDF rendering
+IMPORTANT — Windows PDF rendering
 
 PDF2Image requires Poppler installed.
 
